@@ -1,4 +1,5 @@
 # progrmador: wesley davi zanon novaes
+#Data: 17/05/2020
 # Linguagem de programção: Python
 
 #iniciando com classe para organizar o codigo
