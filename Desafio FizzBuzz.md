@@ -1,4 +1,3 @@
-# Desafio-FizzBuz
 # progrmador: wesley davi zanon novaes
 # Linguagem de programção: Python
 #iniciando com classe para organizar o codigo
@@ -71,7 +70,7 @@ for l in range(quantia):
     
 #definir r chamar a classe e funçoes da classe object
 fb = FizzBuzz(numeros, fizz, buzz, fizzbuzz)
-fb.realocaNumeros
+fb.realocaNumeros()
 
 #Uso '\n' no meio dos programas para pular uma linha na hora de compilar
 #ajuda no entendimento
@@ -79,4 +78,3 @@ print("\n")
 
 #funcao para mostrar os numeros linhadamente    
 fb.mostraNumeros()
-
