@@ -1,7 +1,9 @@
 # progrmador: wesley davi zanon novaes
 # Linguagem de programção: Python
+
 #iniciando com classe para organizar o codigo
 #herdar as varia numeros e FizzBuzz para as funçoes
+
 class FizzBuzz:
     def __init__(self, numeros, fizz, buzz, fizzbuzz):
         self.numeros = numeros
@@ -72,8 +74,6 @@ for l in range(quantia):
 fb = FizzBuzz(numeros, fizz, buzz, fizzbuzz)
 fb.realocaNumeros()
 
-#Uso '\n' no meio dos programas para pular uma linha na hora de compilar
-#ajuda no entendimento
 print("\n")
 
 #funcao para mostrar os numeros linhadamente    
